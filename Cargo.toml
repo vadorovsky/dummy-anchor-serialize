@@ -1,0 +1,9 @@
+[package]
+name = "dummy-anchor-serialize"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "A dummy crate containing a struct which can be used in a Solana account"
+
+[dependencies]
+anchor-lang = "0.27"
